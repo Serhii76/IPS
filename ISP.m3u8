@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,= Самообновляемый плейлист FreeBestTV SNIPTV =
-https://raw.githubusercontent.com/Serhii76/IPS/master/ISP.XML
+https://raw.githubusercontent.com/Serhii76/IPS/master/ISP.m3u8
 #EXTINF:-1,== Последнее обновление1
-https://raw.githubusercontent.com/Serhii76/IPS/master/ISP.XML
+https://raw.githubusercontent.com/Serhii76/IPS/master/ISP.m3u8
 #EXTINF:-1,Россия 24
 http://176.111.68.67:1234/udp/224.1.1.1:1234 
 #EXTINF:-1,Твой Дом
